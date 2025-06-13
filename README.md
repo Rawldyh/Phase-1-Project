@@ -84,8 +84,7 @@ profitability.
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Rawldyh/aircraft-risk-analysis.git
-   cd aircraft-risk-analysis
+   git clone https://github.com/Rawldyh/Phase-1-Project.git
    ```
 
 2. Open and run `Final.ipynb` in JupyterLab or VSCode
