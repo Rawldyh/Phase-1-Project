@@ -90,11 +90,10 @@ profitability.
 2. Open and run `Final.ipynb` in JupyterLab or VSCode
 
 ---
+### ⚠️ Disclaimer
+Parts of this project were developed with assistance from OpenAI's ChatGPT and Anaconda Assistant for debugging and enhancing the presentation. However, all analysis and recommendations were conducted independently by me.
 
 ## 📬 Contact
-
 For questions or collaboration, contact rolddysurpris@gmail.com or www.linkedin.com/in/rolddy-surpris-8574b0265
 
-### ⚠️ Disclaimer
 
-Parts of this project were developed with assistance from OpenAI's ChatGPT and Anaconda Assistant for debugging and enhancing the presentation. However, all analysis and recommendations were conducted independently by me.
