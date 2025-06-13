@@ -72,7 +72,7 @@ profitability.
 ## 🧾 Files Included
 
 - `Final.ipynb`: Full Jupyter notebook with code, analysis, and findings
-- `Presentation.pptx`: Executive-ready presentation
+- `Presentation.pdf`: Executive-ready presentation
 - `Aviation_Data.csv`: Dataset
 - `Aviation accident analysis dashboard.pbix`: Power BI interactive dashboard
 - `Dashboard.pdf`: Non-interactive Pdf version of the dashboard
